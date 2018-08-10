@@ -17,9 +17,9 @@
 				<key>ShadowYoffset</key>
 				<real>0</real>
 				<key>TextColor</key>
-				<string>#025ca5</string>
+				<string>#72baf5</string>
 				<key>TextYoffset</key>
-				<real>3</real>
+				<real>2</real>
 		</dict>
 		<key>CalendarIconDaySettings</key>
 		<dict>
