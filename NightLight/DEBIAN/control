@@ -1,0 +1,10 @@
+Package: com.rango.nightlight
+Name: NightLight
+Depends: com.anemonetheming.anemone
+Version: 0.3
+Architecture: iphoneos-arm
+Description: A beautiful and colorful Theme!
+Maintainer: Rango
+Author: Yung Specht
+Section: Themes
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.nightlight
